@@ -33,8 +33,12 @@ quantitative measurements related to their images.</p>
 * <b>shading correction </b>based on a signal envelope estimation retrospective algorithm, 
 https://github.com/reyesaldasoro/shading-correction
 
+<img style="width: 449px; height: 208px;" alt="Shading Correction" src="shading.jpg"></td>
+
 * <b>measuring cellular migration</b> for scratch wound assays
 https://github.com/reyesaldasoro/Cell-Migration
+
+<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg rotate="90"><br>
 
 * <b>Microvessel Segmentation</b> from tissue stained with immunohistochemistry (CD-31, blue-brown)
 https://github.com/reyesaldasoro/Microvessel-Segmentation
@@ -45,6 +49,6 @@ https://github.com/reyesaldasoro/Scale-Space-Vessel-Tracing
 * <b>Chromatic Analysis</b> originally for immunohistochemistry and intravital microscopy, but can be used for anything
 https://github.com/reyesaldasoro/Chromatic-Analysis
 
-<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg"><br>
-<img style="width: 449px; height: 208px;" alt="Shading Correction" src="shading.jpg"></td>
+
+
 
