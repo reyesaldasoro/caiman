@@ -38,7 +38,7 @@ https://github.com/reyesaldasoro/shading-correction
 * <b>measuring cellular migration</b> for scratch wound assays
 https://github.com/reyesaldasoro/Cell-Migration
 
-<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg rotate="90"><br>
+<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg" rotate="90"><br>
 
 * <b>Microvessel Segmentation</b> from tissue stained with immunohistochemistry (CD-31, blue-brown)
 https://github.com/reyesaldasoro/Microvessel-Segmentation
