@@ -20,7 +20,7 @@ understanding biological processes</p>
 
 <p>
 <br>
-CAIMAN is an Image Analysis internet-based project that combines the strength
+CAIMAN originated as an Image Analysis internet-based project that combined the strength
 of open-source web-based scripting languages, the powerful
 high-level technical computing language MATLAB,
 and the vast literature on image analysis and computer vision to
@@ -28,29 +28,23 @@ provide a user-friendly web-page where any person can upload
 cancer-related images and execute analysis algorithms and obtain
 quantitative measurements related to their images.</p>
 
-The algorithms available at the moment at CAIMAN are: 
+<p>With time, it become evident that it was better to disseminate the algorithms as Matlab Scripts to be run locally instead of cloud-based. The algorithms available at CAIMAN can now be accessed in GitHub: </p>
 
 * <b>shading correction </b>based on a signal envelope estimation retrospective algorithm, 
+https://github.com/reyesaldasoro/shading-correction
 
 * <b>measuring cellular migration</b> for scratch wound assays
 https://github.com/reyesaldasoro/Cell-Migration
 
+* <b>Microvessel Segmentation</b> from tissue stained with immunohistochemistry (CD-31, blue-brown)
 https://github.com/reyesaldasoro/Microvessel-Segmentation
 
+* <b>Tracing of vessels</b> for in-vivo intravital microscopy
+https://github.com/reyesaldasoro/Scale-Space-Vessel-Tracing
 
+* <b>Chromatic Analysis</b> originally for immunohistochemistry and intravital microscopy, but can be used for anything
 https://github.com/reyesaldasoro/Chromatic-Analysis
 
-      <td style="vertical-align: top;"><img
- style="width: 180px; height: 464px;" alt="Migration measurement"
- src="migration.jpg"><br>
-      <br>
-      <br>
-      </td>
-    </tr>
-    <tr>
-      <td style="vertical-align: top; text-align: center;"><img
- style="width: 449px; height: 208px;" alt="Shading Correction"
- src="shading.jpg"></td>
-      <td style="vertical-align: top;"><img
- style="width: 180px; height: 208px;"
- alt="Quantification of Western Blots" src="westQuant.gif"><br>
+<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg"><br>
+<img style="width: 449px; height: 208px;" alt="Shading Correction" src="shading.jpg"></td>
+
