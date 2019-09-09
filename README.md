@@ -48,6 +48,9 @@ https://github.com/reyesaldasoro/Microvessel-Segmentation
 * <b>Tracing of vessels</b> for in-vivo intravital microscopy
 https://github.com/reyesaldasoro/Scale-Space-Vessel-Tracing
 
+
+<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="tracing2.png"></td>
+
 * <b>Chromatic Analysis</b> originally for immunohistochemistry and intravital microscopy, but can be used for anything
 https://github.com/reyesaldasoro/Chromatic-Analysis
 
