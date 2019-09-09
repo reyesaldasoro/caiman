@@ -30,35 +30,32 @@ quantitative measurements related to their images.</p>
 
 <p>With time, it become evident that it was better to disseminate the algorithms as Matlab Scripts to be run locally instead of cloud-based. The algorithms available at CAIMAN can now be accessed in GitHub: </p>
 
-* <b>shading correction </b>based on a signal envelope estimation retrospective algorithm, 
+* <b>shading correction </b>based on a signal envelope estimation retrospective algorithm,
 
 https://github.com/reyesaldasoro/shading-correction
 
-<img style="width: 449px; height: 208px;" alt="Shading Correction" src="shading.jpg"></td>
+<img style="width: 449px; height: 208px;" alt="Shading Correction" src="Figures/shading.jpg"></td>
 
 * <b>measuring cellular migration</b> for scratch wound assays
 
 https://github.com/reyesaldasoro/Cell-Migration
 
-<img style="width: 180px; height: 464px;" alt="Migration measurement" src="migration.jpg" rotate="90"><br>
+<img style="width: 180px; height: 464px;" alt="Migration measurement" src="Figures/migration.jpg" rotate="90"><br>
 
 * <b>Microvessel Segmentation</b> from tissue stained with immunohistochemistry (CD-31, blue-brown)
 
 https://github.com/reyesaldasoro/Microvessel-Segmentation
 
-<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="Figure6CD31.jpg"></td>
+<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="Figures/Figure6CD31.jpg"></td>
 
 * <b>Tracing of vessels</b> for in-vivo intravital microscopy
 
 https://github.com/reyesaldasoro/Scale-Space-Vessel-Tracing
 
-<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="tracing2.png"></td>
+<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="Figures/tracing2.png"></td>
 
 * <b>Chromatic Analysis</b> originally for immunohistochemistry and intravital microscopy, but can be used for anything
 
 https://github.com/reyesaldasoro/Chromatic-Analysis
 
-<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="chromaticity.jpg"></td>
-
-
-
+<img style="width: 449px; height: 208px;" alt="Chromatic Analysis" src="Figures/chromaticity.jpg"></td>
