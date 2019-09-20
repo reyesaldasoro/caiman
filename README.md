@@ -30,7 +30,9 @@ quantitative measurements related to their images.</p>
 
 <p>With time, it become evident that for some people it may be better to test and adapt the algorithms as Matlab Scripts to be run locally instead of cloud-based. The algorithms available at CAIMAN can now be accessed in GitHub, however, the cloud-based system is still running at:</p>
 
+<h2>
 http://www.caiman.org.uk
+</h2>
 
 <p>For the Matlab routines follow these links:</p>
 
