@@ -28,7 +28,11 @@ provide a user-friendly web-page where any person can upload
 cancer-related images and execute analysis algorithms and obtain
 quantitative measurements related to their images.</p>
 
-<p>With time, it become evident that it was better to disseminate the algorithms as Matlab Scripts to be run locally instead of cloud-based. The algorithms available at CAIMAN can now be accessed in GitHub: </p>
+<p>With time, it become evident that for some people it may be better to test and adapt the algorithms as Matlab Scripts to be run locally instead of cloud-based. The algorithms available at CAIMAN can now be accessed in GitHub, however, the cloud-based system is still running at:</p>
+
+http://www.caiman.org.uk
+
+<p>For the Matlab routines follow these links:</p>
 
 * <b>shading correction </b>based on a signal envelope estimation retrospective algorithm,
 
